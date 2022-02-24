@@ -1,0 +1,9 @@
+name: CGPL_Plugin
+version: '${project.version}'
+main: cgpl_plugin.cgpl_plugin.CGPL_Plugin
+api-version: 1.18
+authors: [ ColaGyul ]
+description: Cola Gyul PLugin
+
+commands:
+  la:
